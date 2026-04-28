@@ -3,6 +3,7 @@ Split bluetooth 36 key hand wired keyboard
 
 ## Geometry
 Designed in FreeCAD
+
 Split design with column staggered main board and 3 button thumb clusters for each hand
 
 ## Controller & Battery
