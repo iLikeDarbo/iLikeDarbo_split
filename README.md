@@ -1,6 +1,8 @@
 # iLikeDarbo_split Keyboard
 Split bluetooth 36 key hand wired keyboard
 
+![picture of keyboard](https://github.com/iLikeDarbo/iLikeDarbo_split/blob/main/pics/ILD_split_2.jpg)
+
 ## Geometry
 Designed in FreeCAD
 
