@@ -1,7 +1,7 @@
 # iLikeDarbo_split Keyboard
 Split bluetooth 36 key hand wired keyboard
 
-![picture of keyboard](https://github.com/iLikeDarbo/iLikeDarbo_split/blob/main/pics/ILD_split_2.jpg)
+![picture of keyboard](https://github.com/iLikeDarbo/iLikeDarbo_split/blob/main/pics/ILD_split_1.jpg)
 
 ## Geometry
 Designed in FreeCAD
@@ -16,3 +16,5 @@ Kaihl Choc v2 red (linear)
 
 ## Firmware
 ZMK
+
+![picture of keyboard](https://github.com/iLikeDarbo/iLikeDarbo_split/blob/main/pics/ILD_split_3.jpg)
