@@ -15,4 +15,4 @@ Nice!Nano v2 compatible paried with a 500mAh battery
 Kaihl Choc v2 red (linear)
 
 ## Firmware
-ZMK (in progress)
+ZMK
