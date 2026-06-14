@@ -9,7 +9,7 @@ Designed in FreeCAD
 Split design with column staggered main board and 3 button thumb clusters for each hand
 
 ## Controller & Battery
-Nice!Nano v2 compatible paried with a 500mAh battery
+Nice!Nano v2 compatible paired with a 500mAh battery
 
 ## Switches
 Kaihl Choc v2 red (linear)
